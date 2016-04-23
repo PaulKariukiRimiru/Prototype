@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <kr.mike.msafiri.prototype.SocialIntegration.SocialCard
+        android:id="@+id/fb_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        custom:social_card_color="@color/facebook"
+        custom:dark_color="@color/facebook_light"
+        custom:profile_image="@drawable/user"
+        custom:text_color="@color/facebook"/>
+
+    <kr.mike.msafiri.prototype.SocialIntegration.SocialCard
+        android:id="@+id/tw_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        custom:social_card_color="@color/twitter"
+        custom:dark_color="@color/twitter_light"
+        custom:profile_image="@drawable/twitter_user"
+        custom:text_color="@color/twitter"/>
+
+
+    <kr.mike.msafiri.prototype.SocialIntegration.SocialCard
+        android:id="@+id/insta_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        custom:social_card_color="@color/instagram"
+        custom:dark_color="@color/instagram_light"
+        custom:profile_image="@drawable/instagram_user"
+        custom:text_color="@color/instagram"/>
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nav">Nav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="divider">divider</string>
+    <string name="delete_friend">Remove Friend</string>
+
+    <string name="facebook_app_id">1717648391816190</string>
+
+</resources>

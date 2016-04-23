@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Features">
+        <menu>
+        <item
+            android:id="@+id/History"
+            android:icon="@drawable/history"
+            android:title="History" />
+        <item
+            android:id="@+id/Route"
+            android:icon="@drawable/directions"
+            android:title="Route" />
+        <item
+            android:id="@+id/Social"
+            android:icon="@drawable/chat"
+            android:title="Social" />
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Tools" />
+        </menu>
+    </item>
+
+</menu>

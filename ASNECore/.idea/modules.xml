@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ASNE.iml" filepath="$PROJECT_DIR$/../ASNE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASNECore.iml" filepath="$PROJECT_DIR$/ASNECore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ASNEDemo/ASNEDemo.iml" filepath="$PROJECT_DIR$/../ASNEDemo/ASNEDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../facebook/facebook.iml" filepath="$PROJECT_DIR$/../facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../googleplus/googleplus.iml" filepath="$PROJECT_DIR$/../googleplus/googleplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../instagram/instagram.iml" filepath="$PROJECT_DIR$/../instagram/instagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../linkedin/linkedin.iml" filepath="$PROJECT_DIR$/../linkedin/linkedin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../odnoklassniki/odnoklassniki.iml" filepath="$PROJECT_DIR$/../odnoklassniki/odnoklassniki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../twitter/twitter.iml" filepath="$PROJECT_DIR$/../twitter/twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vk/vk.iml" filepath="$PROJECT_DIR$/../vk/vk.iml" />
+    </modules>
+  </component>
+</project>
